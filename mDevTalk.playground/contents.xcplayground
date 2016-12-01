@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Intro'/>
+        <page name='Table of Contents'/>
+        <page name='01-PlaygroundIntro'/>
+        <page name='PlaygroundIntro-ViewController'/>
+        <page name='02-EmojiGraphics'/>
+        <page name='AnimationTypes'/>
+        <page name='03-SimpleAnimation'/>
+        <page name='04-yAxis'/>
+        <page name='05-SimpleCombination'/>
+        <page name='06-ShapeLayerAnimation'/>
+        <page name='07-Glyph'/>
+        <page name='08-Spinner'/>
+        <page name='09-Particles'/>
+        <page name='RealLifeExample'/>
+        <page name='RealLifeExample2'/>
+        <page name='Questions'/>
+    </pages>
+</playground>
